@@ -1,0 +1,25 @@
+{
+  "name": "codeigniter",
+  "version": "1.0.0",
+  "description": "Codeigniter sample Package\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[S\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-flatten": "^0.4.0",
+    "gulp-filter": "^5.1.0",
+    "gulp-minify": "^2.1.0",
+    "gulp-replace": "^0.6.1",
+    "gulp-uglify": "^3.0.0",
+    "main-bower-files": "^2.13.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "codeigniter"
+  ],
+  "author": "Ziaur Rahman",
+  "license": "ISC"
+}
